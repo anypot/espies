@@ -1,0 +1,8 @@
+repo_url: "https://github.com/example/repo.git"
+max_iters: 5
+model_coder: "qwen2.5-coder:14b"
+model_reviewer: "deepseek-r1:14b"
+# Scope: define allowed file patterns (glob style)
+# Examples: ["*.py", "src/**/*.py", "espies/*.py"]
+# If empty/omitted, all files are allowed
+scope: []

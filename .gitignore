@@ -1,0 +1,20 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+tags
+workspace
+
+# Coverage
+.coverage
+htmlcov/
+
+# User config (use config.yaml.sample as template)
+config.yaml
